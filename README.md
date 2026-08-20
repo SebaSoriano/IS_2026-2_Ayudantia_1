@@ -16,7 +16,7 @@ Evita el almacenameinto en cache.
 ## Cómo ejecutar la web
 1. Clona el repositorio
 ```bash
-git clone [https://github.com/SebaSoriano/IS_2026-2_Ayudantia1](https://github.com/SebaSoriano/IS_2026-2_Ayudantia1)
+git clone [https://github.com/SebaSoriano/IS_2026-2_Ayudantia1](https://github.com/SebaSoriano/IS_2026-2_Ayudantia_1)
 ```
 
 2. Anda a la carpeta
